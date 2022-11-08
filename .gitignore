@@ -7,3 +7,4 @@ slurm_node_docker
 slurm_db_docker
 node_logs
 nodes_cgroups
+shared/
